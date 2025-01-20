@@ -53,5 +53,12 @@
             </Grid>
         </GroupBox>
         <!--#endregion-->
+        
+        <!--#region Список паролей-->
+        <ListBox Grid.Row="2">
+            
+        </ListBox>
+        
+        <!--#endregion-->
     </Grid>
 </Window>
